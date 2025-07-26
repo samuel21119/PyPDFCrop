@@ -10,7 +10,7 @@ A Python wrapper for the pdfcrop command-line tool, useful for generating compac
 ## Installation
 
 ```bash
-pip install pdfcrop
+pip install -e .
 ```
 
 ## Usage
